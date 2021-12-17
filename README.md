@@ -22,12 +22,12 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Restu)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Pekob)</br>
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/restuap17/FileSharing-Restu
-cd FileSharing-Restu
+git clone https://github.com/restuap17/FileSharing-Pekob
+cd FileSharing-Pekob
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
